@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/sony/pdx214/device.mk)
 
 PRODUCT_DEVICE := pdx214
-PRODUCT_NAME := twrp_pdx214
+PRODUCT_NAME := omni_pdx214
 PRODUCT_BRAND := Sony
 PRODUCT_MODEL := Pdx214
 PRODUCT_MANUFACTURER := sony
